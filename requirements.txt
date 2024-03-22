@@ -40,6 +40,7 @@ pathy==0.10.3
 Pillow==8.4.0
 pkg_resources==0.0.0
 preshed==3.0.9
+prettytable==2.5.0
 pyahocorasick==2.0.0
 pydantic==1.9.2
 Pygments==2.14.0
@@ -74,4 +75,5 @@ typer==0.9.0
 typing_extensions==4.1.1
 urllib3==1.26.18
 wasabi==1.1.2
+wcwidth==0.2.13
 zipp==3.6.0

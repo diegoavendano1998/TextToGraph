@@ -13,7 +13,7 @@ This repository includes a series of scripts used as proofs of concept for the v
 
 For more information about the bookstore visit the [Pypi project](https://pypi.org/project/text2graphapi/)
 
-For more information about NetworkX visit the [Pypi project](https://networkx.org/)
+For more information about NetworkX visit the [Documentattion Page](https://networkx.org/)
 
 
 

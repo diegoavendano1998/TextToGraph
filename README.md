@@ -53,7 +53,7 @@ Install the proyect requirement
 Run script
 
 ```bash
-  python [script_name].py
+  python scripts/[script_name].py
 ```
 
 

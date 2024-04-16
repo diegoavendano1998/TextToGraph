@@ -1,4 +1,4 @@
-from text2graphapi.src.Cooccurrence import Cooccurrence
+from text2graphapi.text2graphapi.src.Cooccurrence import Cooccurrence
 from prettytable import PrettyTable
 
 import nltk

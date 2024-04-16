@@ -20,7 +20,6 @@ a.draw()
 plt.savefig('nxviz_example_arc.png')
 
 
-
 from nxviz.plots import CircosPlot
 
 c = CircosPlot(er)

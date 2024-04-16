@@ -26,7 +26,6 @@ edge_colors = [int((edge_labels[(nodes_labels[edge_from], nodes_labels[edge_to])
 PLOT_OPTIONS = {
     "nodes_labels": nodes_labels,
     "edge_labels": edge_labels,
-    "edge_colors": edge_colors,
     "nodes_options": {
         "node_color": nodes_colors,
         "node_size": 500
@@ -43,6 +42,7 @@ PLOT_OPTIONS = {
         "edge_color": edge_colors
     },
     "edges_labels_options": {
+        "edge_labels": edge_labels,
         "font_size": 5
     }
 }

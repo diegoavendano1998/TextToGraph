@@ -1,4 +1,4 @@
-from text2graphapi.src.Heterogeneous import Heterogeneous
+from text2graphapi.text2graphapi.src.Heterogeneous import Heterogeneous
 from prettytable import PrettyTable
 
 import nltk
